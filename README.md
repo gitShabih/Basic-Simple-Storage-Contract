@@ -36,3 +36,8 @@ A Solidity-based smart contract that demonstrates basic storage and mapping func
    git clone https://github.com/gitShabih/Basic-Simple-Storage-Contract.git
    cd SimpleStorage
    ```
+2. Install the dependencies:
+   ```bash
+   forge build
+   ```
+   
